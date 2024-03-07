@@ -2,7 +2,7 @@
 - 항목 1
 - 항목 2
   - 하위 항목
-[링크 텍스트](youtube.com)
+[youtube](youtube.com)
 ![대체 텍스트](이미지 URL)
 코드 블록:
 \```
